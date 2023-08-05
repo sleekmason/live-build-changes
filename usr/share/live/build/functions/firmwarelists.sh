@@ -1,4 +1,6 @@
 #!/bin/sh
+## This file modified from it's original version to correctly work 
+## with Lilidog.
 
 ## live-build(7) - System Build Scripts
 ## Copyright (C) 2016-2023 The Debian Live team
